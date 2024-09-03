@@ -1,6 +1,6 @@
 {
   "name": "levanter@5.2.3",
-  "description": "",
+  "description": "♡",
   "keywords": ["noedjs"],
   "success_url": "/",
   "env": {
@@ -22,7 +22,7 @@
     "PREFIX": {
       "description": "prefix, check for more",
       "required": false,
-      "value": "."
+      "value": "♡"
     },
     "SESSION_ID": {
       "description": "session id",
@@ -32,7 +32,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "Xeryab 🌸"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
